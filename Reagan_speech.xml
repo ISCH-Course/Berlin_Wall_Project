@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tear Down This Wall Speech: Digital Transcription </title>
+                <respStmt>
+                    <resp>encoded by</resp>
+                    <name>Pietro Tisci</name>
+                    <name></name>
+                    <name></name>
+                    <name></name>
+                </respStmt>             
+            </titleStmt>
+        
+            <publicationStmt>
+                <publisher>Ronald Reagan Library</publisher>
+                <pubPlace>Simi Valley, CA 93065</pubPlace>
+                <availability>
+                    <p>Open access</p>
+                </availability>
+                <date when="1987">1987</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <title level="a">Remarks at Brandenberg Gate, Berlin, Germany [President's Speaking Copy]</title>
+                    <author>Ronald Reagan</author>
+                    <publisher>Ronald Reagan Library</publisher>
+                    <date>1987</date>. 
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="speech">
+                <head>Tear Down This Wall!</head>
+                <sp>
+                    <speaker>Ronald Reagan</speaker>
+                    <p>First paragraph of the speech...</p>
+                    <p>Second paragraph of the speech...</p>
+                </sp>
+            </div>
+        </body>
+    </text>
+</TEI>
