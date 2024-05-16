@@ -1,11 +1,11 @@
 Item,Item Type,Provider,Metadata Standard
-Reagan's speech notes: \"Tear down this wall!\",Text,U.S. National Archives and Records Administration,LCDRG(https://www.archives.gov/research/catalog/lcdrg/research/catalog/lcdrg)
-Map of Germany with the occupation zone,Map,Stiftung Berliner Mauer,ISAD-G
+Reagan's speech notes: "Tear down this wall!",Text,U.S. National Archives and Records Administration,LCDRG
+Map of Germany with the occupation zone,Map,Stiftung Berliner Mauer,Schema.org
 Leaflet for visitors of the GDR,Leaflet,Stiftung Berliner Mauer,ISAD-G
-Banknote of the GDR,Currency,Stiftung Berliner Mauer,ISAD-G
+Banknote of the GDR,Banknote,Stiftung Berliner Mauer,ISAD-G
 Brochure: "A Wall of Peache",Brochure,Stiftung Berliner Mauer,ISAD-G
-Postcard of the Border,Postcard,Stiftung Berliner Mauer,ISAD-G
+Photograph: "Leap into freedom",Photograph,Stiftung Berliner Mauer,MODS
 Passport of the Federal Republic of Germany,Document,Stiftung Berliner Mauer,ISAD-G
 Postcard of a graffiti,Postcard,Stiftung Berliner Mauer,ISAD-G
-Wedding Photo,Photograph,Stiftung Berliner Mauer,ISAD-G
-Berlin Wall fragment,Historical Structure Fragment,Smithsonian National Museum of American History,EAD
+Wedding Postcard,Postcard,Stiftung Berliner Mauer,ISAD-G
+Berlin Wall fragment,Historical Structure Fragment,Smithsonian National Museum of American History,CIDOC-CRM
