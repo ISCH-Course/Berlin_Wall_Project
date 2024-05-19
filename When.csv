@@ -1,0 +1,9 @@
+Property,LCDRG,Schema.org,MODS,ISAD-G,CIDOC-CRM
+Production Date,N/A,::dateCreated,<dateCreated>,Date(s),"E12 Production
+E52 Time-Span
+"
+Associated Date,N/A,::date,<date>,Date(s),E52 Time-Span
+Publication Date,Release Date,"::datePublished
+::releaseDate",<date>,Date(s),"E12 Production
+E52 Time-Span
+"
