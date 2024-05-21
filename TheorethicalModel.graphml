@@ -13,14 +13,14 @@
   <key attr.name="description" attr.type="string" for="edge" id="d9"/>
   <key for="edge" id="d10" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    <data key="d0"/>
+    <data key="d0" xml:space="preserve"/>
     <node id="n0">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="110.07668284017348" width="331.9381484087946" x="-775.4695772072972" y="-85.83763177466369"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="324.947265625" x="3.495441391897316" xml:space="preserve" y="22.05707532470001">Reagan's speech notes:
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="324.947265625" x="3.495441391897316" xml:space="preserve" y="22.057075324700037">Reagan's speech notes:
 "Tear down this wall!"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="-1.1102230246251565E-16" nodeRatioY="0.05243311701619402" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
@@ -32,7 +32,7 @@
           <y:Geometry height="30.0" width="113.19999999999993" x="-877.5131494634827" y="-195.9021526388134"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.369140625" x="10.915429687500023" xml:space="preserve" y="5.6494140625">Textual Records<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.369140625" x="10.915429687499909" xml:space="preserve" y="5.6494140625">Textual Records<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -54,7 +54,7 @@
           <y:Geometry height="30.0" width="92.39999999999998" x="-428.7163536548478" y="-195.9021526388134"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.732421875" x="7.833789062499932" xml:space="preserve" y="5.6494140625">12 June 1987<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.732421875" x="7.833789062499989" xml:space="preserve" y="5.6494140625">12 June 1987<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -88,7 +88,7 @@
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="103.228515625" x="24.8857421875" xml:space="preserve" y="11.71290637600805">"characters in line"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.624229979466236" y="214.6494140624999">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.624229979466236" y="214.6494140625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -183,8 +183,8 @@
           <y:Geometry height="39.0" width="350.33333333333326" x="1646.496894254265" y="-250.6014650632942"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="320.001953125" x="15.16569010416697" xml:space="preserve" y="11.71290637600805">"Wedding party waves over the border wall into East Berlin"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.61670088980145" y="214.6494140625">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="320.001953125" x="15.165690104166742" xml:space="preserve" y="11.712906376008078">"Wedding party waves over the border wall into East Berlin"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.616700889801223" y="214.6494140625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -210,7 +210,7 @@
     <node id="n16">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="29.0" width="107.0" x="2074.041034701453" y="-158.57904807399183"/>
+          <y:Geometry height="29.0" width="107.0" x="2059.776310911382" y="-89.72490908734744"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.0234375" x="15.48828125" xml:space="preserve" y="5.1494140625">G - postcards<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -221,7 +221,7 @@
     <node id="n17">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="34.815590342787345" width="73.34031308508588" x="2060.8708781589103" y="-58.79029606207263"/>
+          <y:Geometry height="34.815590342787345" width="73.34031308508588" x="1388.5129504776799" y="324.77989700459386"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="21.322500292542827" xml:space="preserve" y="8.057209233893673">1961<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -235,7 +235,7 @@
           <y:Geometry height="30.0" width="69.0" x="1482.398342014415" y="-37.320789117145694"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.373046875" x="5.8134765625" xml:space="preserve" y="5.649414062499943">G-001762<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.373046875" x="5.8134765625" xml:space="preserve" y="5.6494140625">G-001762<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -258,7 +258,7 @@ for visitors of the GDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:
           <y:Geometry height="266.348229166667" width="567.7848275862068" x="324.1393606814297" y="692.9181023869273"/>
           <y:Fill color="#FF6600" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Times New Roman" fontSize="40" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.71484375" x="188.0349919181033" xml:space="preserve" y="109.02567708333345">Berlin Wall<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Times New Roman" fontSize="40" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.71484375" x="188.0349919181034" xml:space="preserve" y="109.02567708333345">Berlin Wall<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -269,7 +269,7 @@ for visitors of the GDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:
           <y:Geometry height="35.12804488078518" width="99.96395018352439" x="-1069.763091401464" y="1141.5428929442319"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.021484375" x="7.9712329042621946" xml:space="preserve" y="8.213436502892591">D - Documents<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.021484375" x="7.971232904262251" xml:space="preserve" y="8.213436502892591">D - Documents<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -326,7 +326,7 @@ on staying in the GDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:La
           <y:Geometry height="82.66135244127179" width="482.7505081680424" x="1767.057713592214" y="1092.3767275033792"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="479.2392578125" x="1.7556251777714351" xml:space="preserve" y="2.577746533135951">Passport
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="479.2392578125" x="1.7556251777712077" xml:space="preserve" y="2.577746533135951">Passport
 of the Federal Republic of Germany<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
@@ -338,7 +338,7 @@ of the Federal Republic of Germany<y:LabelModel><y:SmartNodeLabelModel distance=
           <y:Geometry height="47.71189901823277" width="330.84740532959336" x="1843.0092650114384" y="980.2354515607569"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="320.18359375" x="5.331905789796565" xml:space="preserve" y="7.154777634116499">Cardboard, paper, linen cover, printed, with passport photo,
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="320.18359375" x="5.331905789796565" xml:space="preserve" y="7.154777634116385">Cardboard, paper, linen cover, printed, with passport photo,
 handwritten description, stamped<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
@@ -383,7 +383,7 @@ handwritten description, stamped<y:LabelModel><y:SmartNodeLabelModel distance="4
           <y:Geometry height="29.0" width="87.34046788218848" x="1798.264742742188" y="1255.150125385417"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.373046875" x="11.983710503594011" xml:space="preserve" y="5.1494140625">D - 000486<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.373046875" x="11.983710503594239" xml:space="preserve" y="5.1494140625">D - 000486<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -425,7 +425,7 @@ by Gerd Schmelter from 1979<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/>
           <y:Geometry height="30.0" width="136.53287539119594" x="1908.3044221555078" y="1639.3690039378662"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.732421875" x="17.900226758098142" xml:space="preserve" y="5.6494140625">Leap into freedom<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.732421875" x="17.900226758097915" xml:space="preserve" y="5.6494140625">Leap into freedom<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -436,7 +436,7 @@ by Gerd Schmelter from 1979<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/>
           <y:Geometry height="68.30775478659507" width="418.19742910430574" x="1314.9206078722682" y="2197.1400991017663"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="376.216796875" x="20.99031611465307" xml:space="preserve" y="2.7515336432975346">Photograph shows
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="376.216796875" x="20.990316114652842" xml:space="preserve" y="2.7515336432975346">Photograph shows
  Hans Konrad Schumann (1942-1998), an East German border guard 
 defectingto West Germany
 by jumping over barbed wire barricade.<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -461,7 +461,7 @@ by jumping over barbed wire barricade.<y:LabelModel><y:SmartNodeLabelModel dista
           <y:Geometry height="30.0" width="120.14760203495047" x="1908.3044221555078" y="2088.9341481327274"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.396484375" x="22.375558829975034" xml:space="preserve" y="5.6494140625">1961 Aug. 15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.396484375" x="22.37555882997526" xml:space="preserve" y="5.6494140625">1961 Aug. 15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -539,7 +539,7 @@ Berlin became a symbol of the repressions of the Berlin Wall.
           <y:Geometry height="181.31495489361714" width="261.48070223594266" x="-146.85658313124804" y="1068.4494379378161"/>
           <y:Fill color="#CCFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="128.7403511179714" y="88.65747744680857">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="128.74035111797133" y="88.65747744680857">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -662,7 +662,7 @@ Berlin became a symbol of the repressions of the Berlin Wall.
           <y:Geometry height="106.40736677222571" width="313.2573167217617" x="442.19753862837206" y="-90.22490908734744"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="274.087890625" x="19.584713048380763" xml:space="preserve" y="32.82721854236286">Berlin Wall fragment<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="30" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="40.7529296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="274.087890625" x="19.584713048380877" xml:space="preserve" y="32.82721854236286">Berlin Wall fragment<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -684,7 +684,7 @@ Berlin became a symbol of the repressions of the Berlin Wall.
           <y:Geometry height="30.0" width="72.13641549938916" x="389.28128420428993" y="-304.0480116809065"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="20.720551499694466" xml:space="preserve" y="5.6494140625">1989<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="20.72055149969458" xml:space="preserve" y="5.6494140625">1989<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -766,7 +766,7 @@ concrete (overall material)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/>
           <y:Geometry height="30.0" width="72.13641549938916" x="732.3800786280106" y="-304.0480116809065"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="20.720551499694693" xml:space="preserve" y="5.6494140625">1989<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="20.72055149969458" xml:space="preserve" y="5.6494140625">1989<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -777,7 +777,7 @@ concrete (overall material)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/>
           <y:Geometry height="30.0" width="249.3749999999999" x="321.6177511830133" y="133.79246491483798"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="238.76171875" x="5.306640625" xml:space="preserve" y="5.6494140625">Berlin Wall fragment, Berlin, Germany, 1961<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="238.76171875" x="5.306640624999943" xml:space="preserve" y="5.6494140625">Berlin Wall fragment, Berlin, Germany, 1961<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -827,7 +827,7 @@ Purchase, 2011<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
           <y:Geometry height="66.99127643827887" width="288.51857965388115" x="-6.216860911405547" y="1692.2131721675214"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="187.2578125" x="50.63038357694063" xml:space="preserve" y="24.145052281639437">Broschüre "Ein Wall des Friedens"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="187.2578125" x="50.630383576940574" xml:space="preserve" y="24.145052281639437">Broschüre "Ein Wall des Friedens"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -838,7 +838,7 @@ Purchase, 2011<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
           <y:Geometry height="31.050888535178274" width="200.24394269889746" x="64.19267094554561" y="1825.4439513046486"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.021484375" x="82.11122916194881" xml:space="preserve" y="6.174858330089137">Paper<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.021484375" x="82.11122916194873" xml:space="preserve" y="6.174858330089137">Paper<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -849,7 +849,7 @@ Purchase, 2011<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
           <y:Geometry height="38.40710828142687" width="151.90307008069192" x="186.93409732082273" y="1893.7517060912432"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.357421875" x="27.272824102846016" xml:space="preserve" y="9.85296820321355">N - printing works<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.357421875" x="27.27282410284596" xml:space="preserve" y="9.85296820321355">N - printing works<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -871,7 +871,7 @@ Purchase, 2011<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
           <y:Geometry height="34.20355414071332" width="135.08885351783783" x="874.5085395194851" y="1886.494839839827"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="52.19677050891869" xml:space="preserve" y="7.7511911328565475">1967<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="52.19677050891892" xml:space="preserve" y="7.7511911328565475">1967<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -894,7 +894,7 @@ Purchase, 2011<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMode
           <y:Geometry height="57.743457328709155" width="246.68007984709175" x="874.5085395194851" y="1694.0441512216803"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.916015625" x="48.382032111045646" xml:space="preserve" y="19.521142726854578">Brochure "A Wall of Peace"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.916015625" x="48.38203211104587" xml:space="preserve" y="19.521142726854578">Brochure "A Wall of Peace"<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -938,7 +938,7 @@ for socialism in the GDR, 64 pages.</y:NodeLabel>
           <y:Geometry height="57.743457328709155" width="455.0146268183987" x="1854.8590711491565" y="1503.4195956401188"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="444.888671875" x="5.062977471699469" xml:space="preserve" y="12.17055678935435">Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="444.888671875" x="5.062977471699469" xml:space="preserve" y="12.170556789354578">Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
  http://hdl.loc.gov/loc.pnp/pp.print<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -994,7 +994,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.357421875" x="20.509491735909705" xml:space="preserve" y="5.6494140625">English<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.77230894243894" y="8.747887368484498">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.77230894243894" y="8.747887368484271">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1023,7 +1023,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="29.999999999999545" width="58.02444236749784" x="1486.2367782928022" y="1988.1100258328906"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.68359375" x="10.670424308748807" xml:space="preserve" y="5.6494140625">image<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.68359375" x="10.670424308748807" xml:space="preserve" y="5.649414062499773">image<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1078,7 +1078,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="58.461928002288005" width="132.49589923274914" x="-396.8135984252632" y="1407.2746621125661"/>
           <y:Fill color="#CCFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.0234375" x="19.236230866374513" xml:space="preserve" y="19.880378063644002">Mark of the GDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.0234375" x="19.23623086637457" xml:space="preserve" y="19.880378063644002">Mark of the GDR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1089,7 +1089,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="30.0" width="113.19999999999993" x="-999.3840157331817" y="-45.799290354576954"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.396484375" x="12.901757812499966" xml:space="preserve" y="5.6494140625">Ronald Reagan<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.396484375" x="12.901757812499909" xml:space="preserve" y="5.6494140625">Ronald Reagan<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1130,10 +1130,10 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
     <node id="n91">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="107.00000000000006" x="1506.0506047679078" y="769.9773392377889"/>
+          <y:Geometry height="30.0" width="107.00000000000006" x="1463.398342014415" y="508.3027820503571"/>
           <y:Fill color="#66CC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.0234375" x="6.48828125" xml:space="preserve" y="5.6494140625">Mirta Domacinov<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.0234375" x="6.48828125" xml:space="preserve" y="7.298828125">Mirta Domacinov<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="-2.7755575615628914E-16" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1189,7 +1189,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="126.033203125" x="13.500924965126956" xml:space="preserve" y="11.71290637600805">H: 60.3 cm W: 83.8 cm<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.626893147935021" y="214.6494140625">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.626893147934993" y="214.6494140625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1207,7 +1207,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="39.0" width="124.65716459022019" x="-1095.542273129355" y="471.64867843079196"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.388671875" x="8.634246357610095" xml:space="preserve" y="10.1494140625">P - Maps and plans<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.388671875" x="8.634246357609982" xml:space="preserve" y="10.1494140625">P - Maps and plans<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1240,8 +1240,8 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="39.0" width="193.45732635077297" x="-1312.5356292624663" y="581.1106890074839"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.408203125" x="17.0245616128866" xml:space="preserve" y="11.71290637600805">JRO Berlin special card 1962<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="12.697989887019617" y="214.6494140625">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.408203125" x="17.024561612886828" xml:space="preserve" y="11.71290637600805">JRO Berlin special card 1962<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="12.69798988701973" y="214.6494140625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1267,7 +1267,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
     <node id="n102">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="265.9071645902201" x="-286.23346351718624" y="-275.46274044023187"/>
+          <y:Geometry height="30.0" width="265.9071645902201" x="-306.31635365484783" y="-135.9021526388134"/>
           <y:Fill color="#66CC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="234.806640625" x="15.550261982610039" xml:space="preserve" y="5.6494140625">750th Anniversary of the Founding of Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1290,7 +1290,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="109.65716459022019" x="-1198.208770531673" y="705.1171429489063"/>
-          <y:Fill color="#66CC00" transparent="false"/>
+          <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.35546875" x="14.150847920110209" xml:space="preserve" y="5.6494140625">Michael Müller<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
@@ -1301,9 +1301,42 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="104.30516459022022" x="-1047.6116607796084" y="1734.4271699662693"/>
-          <y:Fill color="#66CC00" transparent="false"/>
+          <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.375" x="12.46508229511005" xml:space="preserve" y="5.6494140625">Eveline Unger<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n106">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="261.53637716236665" x="-1216.159999181622" y="90.00102334459655"/>
+          <y:Fill color="#66CC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="234.12109375" x="13.707641706183267" xml:space="preserve" y="5.6494140625"> 40th President of United States of America<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n107">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="41.08782890931241" x="-999.3840157331817" y="-137.0055964777012"/>
+          <y:Fill color="#66CC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.6953125" x="5.19625820465626" xml:space="preserve" y="5.6494140625">2004<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n108">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="36.874248959014494" x="-1108.2017481095413" y="-98.38111359997072"/>
+          <y:Fill color="#66CC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.029296875" x="1.422476042007247" xml:space="preserve" y="5.6494140625"> 1911<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1468,7 +1501,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#999999" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="32.2964057952031" xml:space="preserve" y="-27.056723332198246">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="18.042302122319597" xml:space="preserve" y="-9.350588103460737">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1479,7 +1512,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#999999" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="33.40760762538139" xml:space="preserve" y="-2.183333428897754">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-190.66677216977814" xml:space="preserve" y="165.04298603877245">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -2254,7 +2287,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e87" source="n0" target="n88">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2265,7 +2297,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e88" source="n86" target="n90">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2276,7 +2307,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e89" source="n86" target="n89">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2287,18 +2317,16 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e90" source="n74" target="n91">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#66CC00" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.70703125" x="68.46579590009014" xml:space="preserve" y="19.44705179448715">has author<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.0" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.70703125" x="0.9321475968283721" xml:space="preserve" y="-35.84153248703933">has author<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="1.3405506564511758" distanceToCenter="true" position="right" ratio="-40.0561162930869" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="e91" source="n74" target="n92">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2309,7 +2337,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e92" source="n74" target="n93">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2320,7 +2347,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e93" source="n5" target="n94">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2331,13 +2357,12 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e94" source="n20" target="n17">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#66CC00" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.412109375" x="883.8124797866342" xml:space="preserve" y="-562.340317880082">has date of construction<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="51.21282365735565" distanceToCenter="true" position="center" ratio="0.7826869434291169" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.412109375" x="361.16843189225597" xml:space="preserve" y="-262.13909603446655">has date of construction<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="51.21282365735565" distanceToCenter="true" position="center" ratio="0.7826869434291169" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>
@@ -2386,7 +2411,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e99" source="n95" target="n100">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2397,7 +2421,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e100" source="n95" target="n20">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2408,7 +2431,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e101" source="n95" target="n43">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2421,7 +2443,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e102" source="n65" target="n20">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2432,7 +2453,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e103" source="n88" target="n51">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2448,7 +2468,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e104" source="n95" target="n51">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2464,7 +2483,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e105" source="n20" target="n101">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2475,7 +2493,6 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       </data>
     </edge>
     <edge id="e106" source="n95" target="n88">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2487,19 +2504,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e107" source="n3" target="n102">
-      <data key="d9"/>
-      <data key="d10">
-        <y:BezierEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.697265625" x="8.19017710687092" xml:space="preserve" y="-19.255494150841514">date of<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.0" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
-        </y:BezierEdge>
-      </data>
-    </edge>
-    <edge id="e108" source="n43" target="n103">
-      <data key="d9"/>
+    <edge id="e107" source="n43" target="n103">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2509,8 +2514,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e109" source="n43" target="n101">
-      <data key="d9"/>
+    <edge id="e108" source="n43" target="n101">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2523,8 +2527,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e110" source="n51" target="n103">
-      <data key="d9"/>
+    <edge id="e109" source="n51" target="n103">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2537,8 +2540,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e111" source="n51" target="n101">
-      <data key="d9"/>
+    <edge id="e110" source="n51" target="n101">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -2552,25 +2554,97 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e112" source="n95" target="n104">
-      <data key="d9"/>
+    <edge id="e111" source="n95" target="n104">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:LineStyle color="#999999" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-174.88636547166152" xml:space="preserve" y="28.26430256797073">gifted by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.6991562210969676" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e113" source="n44" target="n105">
+    <edge id="e112" source="n44" target="n105">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#999999" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-87.37640795822153" xml:space="preserve" y="-10.610238593948907">gifted by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e113" source="n0" target="n102">
       <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#66CC00" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-87.37640795822153" xml:space="preserve" y="-10.610238593948907">gifted by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.037109375" x="52.53516828209604" xml:space="preserve" y="-25.992397869218877">has event<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e114" source="n102" target="n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-132.2234456902837" y="-180.9021526388134"/>
+            <y:Point x="-335.8798099546808" y="-180.9021526388134"/>
+          </y:Path>
+          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-138.5577711227678" xml:space="preserve" y="-54.34433708705558">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.7329357700745968" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e115" source="n91" target="n17">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.71484375" x="-76.01467042299487" xml:space="preserve" y="-83.71447003745897">has birth date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e116" source="n87" target="n106">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-1085.3918106004385" y="12.240827916661758"/>
+            <y:Point x="-1085.3918106004385" y="45.598335856519896"/>
+          </y:Path>
+          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.3828125" x="-103.47994536606348" xml:space="preserve" y="37.144435017510645">position held<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="-14.900599027791142" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e117" source="n87" target="n108">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="54.021484375" x="-67.10532935212382" xml:space="preserve" y="-23.694298441735178">birth year<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.0" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e118" source="n87" target="n107">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-978.8401012785255" y="-104.5104498728417"/>
+          </y:Path>
+          <y:LineStyle color="#66CC00" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.70703125" x="-48.25212886771294" xml:space="preserve" y="-45.845658382752305">death year<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>

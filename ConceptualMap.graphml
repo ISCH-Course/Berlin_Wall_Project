@@ -213,7 +213,7 @@
           <y:Geometry height="39.0" width="124.65716459022019" x="-1230.3863198041818" y="187.42185515917157"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.388671875" x="8.634246357609982" xml:space="preserve" y="10.1494140625">P - Maps and plans<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.388671875" x="8.634246357610209" xml:space="preserve" y="10.1494140625">P - Maps and plans<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -1163,8 +1163,8 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Geometry height="39.0" width="193.45732635077297" x="-1447.379675937293" y="296.8838657358634"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.408203125" x="17.024561612886828" xml:space="preserve" y="11.71290637600805">JRO Berlin special card 1962<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="12.69798988701973" y="214.6494140625">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.408203125" x="17.0245616128866" xml:space="preserve" y="11.71290637600805">JRO Berlin special card 1962<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="6.661338147750939E-16" nodeRatioY="0.2798481602822581" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="12.697989887019503" y="214.6494140625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1176,11 +1176,33 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
         </y:ShapeNode>
       </data>
     </node>
+    <node id="n94">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="109.65716459022019" x="-1276.46846637594" y="429.6760262109883"/>
+          <y:Fill color="#FFFF99" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.35546875" x="14.150847920110209" xml:space="preserve" y="5.6494140625">Michael Müller<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n95">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="104.30516459022022" x="-1214.3652894466045" y="1496.4636285661318"/>
+          <y:Fill color="#FFFF99" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.375" x="12.46508229511005" xml:space="preserve" y="5.6494140625">Eveline Unger<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <edge id="e0" source="n0" target="n3">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="3.982434809904362" xml:space="preserve" y="-89.16860918789212">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1191,7 +1213,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-40.94723726284906" xml:space="preserve" y="-54.83996726169232">has type<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1202,7 +1224,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.70703125" x="-104.17636836893371" xml:space="preserve" y="-35.595857268080636">has author<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1213,7 +1235,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="99.20802305327584" xml:space="preserve" y="-43.09168891510336">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1224,7 +1246,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.681640625" x="49.99723724450132" xml:space="preserve" y="24.11896711992665">has ID<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1235,7 +1257,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="73.0406776347977" xml:space="preserve" y="-46.54795423828733">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1246,7 +1268,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.412109375" x="-203.6728843583303" xml:space="preserve" y="-25.384235461955655">material and technology<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="60.790438680804606" distanceToCenter="true" position="left" ratio="0.8476645075735078" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1257,7 +1279,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="14.7077620877767" xml:space="preserve" y="-67.20062547094557">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="61.06908377872334" distanceToCenter="true" position="right" ratio="0.6510824072058577" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1268,7 +1290,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.37890625" x="22.177910669852736" xml:space="preserve" y="20.649412694905095">has dimensions<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1279,7 +1301,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-55.0185482534464" xml:space="preserve" y="51.49761716738408">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1290,7 +1312,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-191.2045716389" xml:space="preserve" y="39.673122837279266">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="49.00099113946003" distanceToCenter="true" position="right" ratio="20.280854087619083" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1301,7 +1323,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.046875" x="-36.54368301694012" xml:space="preserve" y="33.10113857351246">has description <y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1312,7 +1334,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.37890625" x="28.50791240389458" xml:space="preserve" y="-35.10437897701047">has dimension<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="69.19735592292807" distanceToCenter="true" position="right" ratio="0.2544902992062941" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1323,7 +1345,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="-83.73977635449319" xml:space="preserve" y="-51.80325775996886">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1334,7 +1356,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-36.26023567495076" xml:space="preserve" y="24.860288670185128">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1345,7 +1367,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-170.64065145786276" xml:space="preserve" y="20.02448267171951">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="64.51782591913191" distanceToCenter="true" position="right" ratio="12.036579011522075" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1356,7 +1378,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="3.9823751985798026" xml:space="preserve" y="-51.90281169331183">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1367,7 +1389,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="154.09375" x="-158.95668951720518" xml:space="preserve" y="1.3066127949039696">has material and technology<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1378,7 +1400,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="32.96297809915859" xml:space="preserve" y="1.7717444531605224">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1389,7 +1411,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="33.407696317091904" xml:space="preserve" y="28.041559085271274">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1400,7 +1422,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-125.65071204185938" xml:space="preserve" y="49.503205071945104">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="46.70646005938314" distanceToCenter="true" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1411,7 +1433,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="-106.14697783907377" xml:space="preserve" y="26.49462266395051">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="34.8245471660012" distanceToCenter="true" position="left" ratio="0.7431939734273815" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1422,7 +1444,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="33.32712511425848" ty="0.5"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.37890625" x="72.94486607784643" xml:space="preserve" y="31.709410318265782">has dimensions<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1433,7 +1455,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-31.12755875400621" ty="-4.047255685742819"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-55.5805515037307" xml:space="preserve" y="39.18935636862216">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="0.6823557480638046" distanceToCenter="false" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1444,7 +1466,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-130.6911796363189" xml:space="preserve" y="123.63516276484211">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="70.99392998581557" distanceToCenter="true" position="right" ratio="0.8778838413305361" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1455,7 +1477,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-56.01756215050318" xml:space="preserve" y="-37.82906509022666">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.6426704783284511" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1466,7 +1488,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.4375" x="14.364544471155114" xml:space="preserve" y="-46.42886462044203">made with material and technology<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="109.08334357195963" distanceToCenter="true" position="right" ratio="0.636932020815133" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1477,7 +1499,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="104.72265625" x="-110.99856628491898" xml:space="preserve" y="20.649399344742733">is held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1488,7 +1510,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.37890625" x="31.450873778683217" xml:space="preserve" y="-31.802984024491707">has dimensions<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="13.10179743173448" distanceToCenter="false" position="left" ratio="0.6290845018771174" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1499,7 +1521,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="72.95715364995044" xml:space="preserve" y="23.165394359088396">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="13.326494401720787" distanceToCenter="false" position="left" ratio="0.7031198521348392" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1510,7 +1532,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-55.8114745875755" xml:space="preserve" y="60.204128070917704">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1521,7 +1543,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-40.82023923772994" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.35546875" x="-74.79647642841519" xml:space="preserve" y="-144.16922505078105">has title<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1532,7 +1554,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-92.03230090458986" ty="-17.338594744483153"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.017578125" x="-551.6761325680686" xml:space="preserve" y="221.33463146720283">has summary<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1543,7 +1565,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="103.3984375" x="-371.86409643307024" xml:space="preserve" y="-9.710888087057128">has relataed name<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="25.29220272999885" distanceToCenter="true" position="right" ratio="58.44752201962741" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1554,7 +1576,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.74609375" x="-178.6186107681965" xml:space="preserve" y="109.54472174387251">has publication date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="56.146707447625566" distanceToCenter="true" position="right" ratio="0.9553969495246804" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1565,7 +1587,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.361328125" x="231.76136995485513" xml:space="preserve" y="8.591182082713885">has medium<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1576,7 +1598,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.73046875" x="174.66172480909336" xml:space="preserve" y="-39.35064221116295">has physical location<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1587,7 +1609,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.060546875" x="44.86696823175316" xml:space="preserve" y="-55.07008433818214">has source collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1598,7 +1620,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.037109375" x="54.03219901213674" xml:space="preserve" y="233.6738915974936">has notes<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="73.15150524822727" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1609,7 +1631,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.373046875" x="88.25470797912612" xml:space="preserve" y="124.1503112545056">has genre<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1620,7 +1642,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-221.35330836748926" xml:space="preserve" y="49.13841038205851">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="56.93354808808689" distanceToCenter="true" position="right" ratio="35.55094716731239" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1631,7 +1653,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.703125" x="397.79981172129754" xml:space="preserve" y="330.0722749683201">has subject<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1642,7 +1664,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.021484375" x="321.2888113003678" xml:space="preserve" y="94.58298974456494">depicts<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1653,7 +1675,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.720703125" x="143.29434609556915" xml:space="preserve" y="21.98153230600542">prodeuced by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1664,7 +1686,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.703125" x="103.59928465195826" xml:space="preserve" y="-54.0366643914291">has border <y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="1.0929879566842016" distanceToCenter="false" position="right" ratio="0.1913789949508221" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1675,7 +1697,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-10.102002856289573" xml:space="preserve" y="42.37316200208761">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1686,7 +1708,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.4375" x="-209.9764417360418" xml:space="preserve" y="-54.565802468311176">made with material and technology<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="115.25768478310849" distanceToCenter="true" position="left" ratio="0.6039576849278596" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1697,7 +1719,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.72265625" x="21.237384274807027" xml:space="preserve" y="8.59287893145438">held in collection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1708,7 +1730,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.37890625" x="-32.70380092866776" xml:space="preserve" y="23.500530764590167">has dimensions<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1719,7 +1741,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="-82.18605726735188" xml:space="preserve" y="37.947389308319316">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1730,7 +1752,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="-176.6873676123214" xml:space="preserve" y="18.274098503655523">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1741,7 +1763,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.021484375" x="-577.9406528267918" xml:space="preserve" y="-444.0103969121965">depicts<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1752,7 +1774,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.369140625" x="-232.06834163145993" xml:space="preserve" y="-80.215742435587">has border<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1763,7 +1785,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="54.6953125" x="-177.94918631480095" xml:space="preserve" y="-76.81265679989883">issued by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1774,7 +1796,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.703125" x="-201.45108887414872" xml:space="preserve" y="-44.83982849011613">has ID number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.7401109452072909" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1785,7 +1807,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.740234375" x="-81.31629002624607" xml:space="preserve" y="-157.04609548023194">has associated date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="62.36953742204671" distanceToCenter="true" position="right" ratio="0.8375355108379061" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1796,7 +1818,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.361328125" x="112.07501890068511" xml:space="preserve" y="-32.21605377597848">held in<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1807,7 +1829,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.064453125" x="-147.80722884188577" xml:space="preserve" y="-58.58083638865003">has accession number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1818,7 +1840,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.751953125" x="81.44220235101227" xml:space="preserve" y="-87.5625180884935">has date of production<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="74.81299459336992" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1829,7 +1851,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.046875" x="10.89188469257192" xml:space="preserve" y="34.18806692754259">has measurements<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1840,7 +1862,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.400390625" x="-147.37624215658687" xml:space="preserve" y="-21.396969704141526">has physical description<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1851,7 +1873,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="91.63001747308522" xml:space="preserve" y="9.956590930469247">has type<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1862,7 +1884,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-145.75486642789565" xml:space="preserve" y="89.2391788346084">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1873,7 +1895,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.712890625" x="6.890629635391235" xml:space="preserve" y="-202.48459261273115">has description<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="51.96339109219874" distanceToCenter="true" position="right" ratio="0.8311548709825105" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1884,7 +1906,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.681640625" x="0.22038903642294372" xml:space="preserve" y="53.78276326292388">has GUID<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1895,7 +1917,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-86.26052452390452" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.05859375" x="-116.78964219573999" xml:space="preserve" y="-39.35053676604912">has original label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1906,7 +1928,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-44.06748943497183" ty="-7.881664013837963"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.4375" x="-282.8645139090954" xml:space="preserve" y="4.827568407805529">made with material and technology<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1917,7 +1939,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.388671875" x="-187.49571423623632" xml:space="preserve" y="42.844921104683635">held incollection<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1928,7 +1950,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.37890625" x="-155.88386907397586" xml:space="preserve" y="79.2882486510623">has dimension<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="21.274986502591453" distanceToCenter="false" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1939,7 +1961,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.037109375" x="51.33836838027071" xml:space="preserve" y="60.289926266113525">has date<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1950,7 +1972,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.39453125" x="58.48112708413896" xml:space="preserve" y="40.740484038607065">has inventory number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1961,7 +1983,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="73.57241635463856" xml:space="preserve" y="-39.999752315117576">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="0.711552333655203" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1972,7 +1994,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.712890625" x="-35.56618660440239" xml:space="preserve" y="144.3872018066436">has description<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="75.30908051063842" distanceToCenter="true" position="right" ratio="0.9618937362317797" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1983,7 +2005,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.046875" x="-214.30391216732994" xml:space="preserve" y="-224.73582378223523">produced by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -1994,7 +2016,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.01953125" x="-51.40235533305059" xml:space="preserve" y="329.04018825428653">is part of<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -2005,7 +2027,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.021484375" x="-547.4342368949394" xml:space="preserve" y="344.2353283847297">depicts<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -2016,7 +2038,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.376953125" x="-233.29563655333504" xml:space="preserve" y="4.771360506399219">located on<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -2027,7 +2049,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.021484375" x="-143.6912149466466" xml:space="preserve" y="-16.692750012895317">depicts<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
@@ -2038,7 +2060,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.732421875" x="-127.98503225157637" xml:space="preserve" y="-80.76911278070219">has catalog number <y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2048,7 +2070,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.369140625" x="-102.88233759986724" xml:space="preserve" y="-241.65495219185573">has repository<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="63.197785459308705" distanceToCenter="true" position="left" ratio="0.9530173069998826" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2058,7 +2080,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.376953125" x="-15.490592565442512" xml:space="preserve" y="-135.31199587851415">has contributor<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="36.56939115286888" distanceToCenter="true" position="left" ratio="0.9246135330456249" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2068,7 +2090,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="54.6953125" x="113.92236960581067" xml:space="preserve" y="-163.49834501923215">is located<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2078,7 +2100,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.064453125" x="124.37587739326545" xml:space="preserve" y="-117.9610981917624">has language<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2088,7 +2110,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.708984375" x="-137.34614532324235" xml:space="preserve" y="-85.94054195313856">has digital id<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2098,7 +2120,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="208.09375" x="-274.0852539651321" xml:space="preserve" y="-76.11017838828138">has library of congress control number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2108,7 +2130,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="137.412109375" x="-180.84561986929293" xml:space="preserve" y="-46.153194389277814">has reproduction number<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2118,7 +2140,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.70703125" x="-393.3162153896028" xml:space="preserve" y="90.15885361732512">has LCCN permalink<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2128,7 +2150,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.05078125" x="-364.7411756238282" xml:space="preserve" y="29.16771011660967">has online format<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2138,7 +2160,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.0234375" x="227.30045093022318" xml:space="preserve" y="47.773760829880075">has format <y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2148,7 +2170,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.037109375" x="312.6060410721411" xml:space="preserve" y="162.93483936280404">has subject <y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2160,7 +2182,7 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="-240.70522522543956" y="968.9118080278904"/>
           </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.046875" x="98.77928321721384" xml:space="preserve" y="-83.86644128545845">produced by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
@@ -2170,20 +2192,41 @@ Soldiers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:M
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.36328125" x="138.82836334757917" xml:space="preserve" y="-131.99537031786872">istance of<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="e92" source="n14" target="n93">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-85.85694427851422" xml:space="preserve" y="-39.350600816870895">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e93" source="n14" target="n94">
       <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.03515625" x="-85.85694427851422" xml:space="preserve" y="-39.350600816870895">has label<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-238.5986924114511" xml:space="preserve" y="24.529510342050116">gifted by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="1.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e94" source="n50" target="n95">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.36328125" x="-99.90576583648931" xml:space="preserve" y="-39.350580418243226">gifted by<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
         </y:BezierEdge>
       </data>
     </edge>
