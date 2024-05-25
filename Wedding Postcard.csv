@@ -4,5 +4,5 @@ Wedding Postcard,rico:isDirectlyIncludedIn,G - postcards
 Wedding Postcard,rdfs:label,"Wedding party waves over the border wall into East Berlin"
 Wedding Postcard,rico:identifier,G-001762
 Wedding Postcard,crm:P45 consists of,Cardboard 
-Wedding Postcard,rico:hasOrHadHolder,Berlin Wall Foundation
+Wedding Postcard,crm:P55 has current location,Berlin Wall Foundation
 Wedding Postcard,crm:P65 shows visual item,Photograph
