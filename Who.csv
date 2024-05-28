@@ -1,5 +1,3 @@
-Property,LCDRG,Schema.org,MODS,ISAD-G,CIDOC-CRM
-Contributor,"Personal Contributor, Personal Contributor Type",contributor,<name> / <role> / <roleTerm>,N/A,P14 carried out by / P94 has created
-Creator,Creating individual,"author, creator, producer, composer, director","<name>
-<namePart>",Name of creator(s),"P24 has creator
-E39 Actor"
+Property,LCDRG,MODS,LIDO,CCO
+Contributor,"Personal Contributor, Personal Contributor Type",<name> / <role> / <roleTerm>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,"Creator Display, Creator Extent"
+Creator,Creating individual,<name> <namePart>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,Role
