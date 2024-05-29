@@ -1,22 +1,22 @@
 Subject,Predicate,Object
-Photograph: "Leap into freedom",rico:generalDescription,"Title devised by Library staff. (Source: 100 photographs : the most influential images of all time. New York, NY : Time Books, 2016). Note on verso: Freedom leaper identified: This East German soldier, whose leap over a barbed wire barricade between East and West Berlin symbolized the repressions of the Berlin Wall, never was named. Now, two years later, he has been identified and traced to a village in West Germany where he lives with his wife and 11-month-old son. Newspaper clipping on verso: This photo of an East German soldier leaping over barbed wire barricade to freedom in West Berlin became a symbol of the repressions of the Berlin Wall. Associated Press photo. On verso: Aug. 23 1963. Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)."
-Photograph: "Leap into freedom",rico:hasCreator,"Leibing, Peter"
-Photograph: "Leap into freedom",rico:hasOrHadLocation,"Berlin, Germany"
-Photograph: "Leap into freedom",rico:hasOrHadLanguage,English
-Photograph: "Leap into freedom",rico:isDirectlyIncludedIn,New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
-Photograph: "Leap into freedom",rico:isDirectlyIncludedIn,"NYWTS - BIOG--Schumann, Conrad--German refugee [item] [P&P]"
-Photograph: "Leap into freedom",rico:hasCarrierType,1 photographic print.
-Photograph: "Leap into freedom",rico:hasRepresentationType,"Photo, Print, Drawing"
-Photograph: "Leap into freedom",rico:hasOrHadSubject,"Berlin Escapes German Germany Liberty Photographic Prints Refugees Schumann, Hans KonradSoldiers"
-Photograph: "Leap into freedom",rico:isRelatedTo,Photographic prints--1960-1970
-Photograph: "Leap into freedom",rico:isOrWasIncludedIn,"Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-Photograph: "Leap into freedom",rico:hasPublicationDate,1961 Aug. 15
-Photograph: "Leap into freedom",crm:P62 depicts,Berlin Wall
-Photograph: "Leap into freedom",rico:scopeAndContent,"Photograph shows Hans Konrad Schumann (1942-1998), an East German border guard  defectingto West Germany by jumping over barbed wire barricade."
-Photograph: "Leap into freedom",schema:url,https://lccn.loc.gov/2010645736
-Photograph: "Leap into freedom",rico:hasCarrierType,image
-Photograph: "Leap into freedom",rico:hasAuthor,"Leibing, Peter, photographer"
-Photograph: "Leap into freedom",rico:identifier,LC-USZ62-138900 (b&w film copy neg.)
-Photograph: "Leap into freedom",rico:identifier,2010645736
-Photograph: "Leap into freedom",rico:identifier,cph 3c38900 //hdl.loc.gov/loc.pnp/cph.3c38900
-Photograph: "Leap into freedom",rdfs:label,Leap into freedom
+Photograph: Leap into freedom,rico:generalDescription,"Title devised by Library staff. (Source: 100 photographs : the most influential images of all time. New York, NY : Time Books, 2016). Note on verso: Freedom leaper identified: This East German soldier, whose leap over a barbed wire barricade between East and West Berlin symbolized the repressions of the Berlin Wall, never was named. Now, two years later, he has been identified and traced to a village in West Germany where he lives with his wife and 11-month-old son. Newspaper clipping on verso: This photo of an East German soldier leaping over barbed wire barricade to freedom in West Berlin became a symbol of the repressions of the Berlin Wall. Associated Press photo. On verso: Aug. 23 1963. Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)."
+Photograph: Leap into freedom,rico:hasCreator,"Leibing, Peter"
+Photograph: Leap into freedom,rico:hasOrHadLocation,"Berlin, Germany"
+Photograph: Leap into freedom,rico:hasOrHadLanguage,English
+Photograph: Leap into freedom,rico:isDirectlyIncludedIn,New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+Photograph: Leap into freedom,rico:isDirectlyIncludedIn,"NYWTS - BIOG--Schumann, Conrad--German refugee [item] [P&P]"
+Photograph: Leap into freedom,rico:hasCarrierType,1 photographic print.
+Photograph: Leap into freedom,rico:hasRepresentationType,"Photo, Print, Drawing"
+Photograph: Leap into freedom,rico:hasOrHadSubject,"Berlin Escapes German Germany Liberty Photographic Prints Refugees Schumann, Hans KonradSoldiers"
+Photograph: Leap into freedom,rico:isRelatedTo,Photographic prints--1960-1970
+Photograph: Leap into freedom,rico:isOrWasIncludedIn,"Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+Photograph: Leap into freedom,rico:hasPublicationDate,1961 Aug. 15
+Photograph: Leap into freedom,crm:P62 depicts,Berlin Wall
+Photograph: Leap into freedom,rico:scopeAndContent,"Photograph shows Hans Konrad Schumann (1942-1998), an East German border guard  defectingto West Germany by jumping over barbed wire barricade."
+Photograph: Leap into freedom,schema:url,https://lccn.loc.gov/2010645736
+Photograph: Leap into freedom,rico:hasCarrierType,image
+Photograph: Leap into freedom,rico:hasAuthor,"Leibing, Peter, photographer"
+Photograph: Leap into freedom,rico:identifier,LC-USZ62-138900 (b&w film copy neg.)
+Photograph: Leap into freedom,rico:identifier,2010645736
+Photograph: Leap into freedom,rico:identifier,cph 3c38900 //hdl.loc.gov/loc.pnp/cph.3c38900
+Photograph: Leap into freedom,rdfs:label,Leap into freedom
