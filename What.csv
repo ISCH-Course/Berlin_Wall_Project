@@ -1,8 +1,8 @@
-Property,LCDRG,Schema.org,MODS,ISAD-G,CIDOC-CRM
-Description,Object Description,description,</mods:abstract>,<scopeAndContent>,P3 has note
-Format,Format,fileFormat,</mods:form>,<physicalCharacteristics>,P2 has type
-Physical Description,Object Description,,</mods:physicalDescription>,<extentAndMedium>,P3 has note
-Identifier,Collection Identifier,identifier,</mods:identifier>,<referenceCode>,P1 is identified by
-Type,Object Type,ype,</mods:typeOfResource>,<type>,P2 has type
-Title,Title,name,</mods:titleInfo>,<title>,P102 has title
-Language,Language,inLanguage,</mods:languageTerm>,<language>,P72 has language
+Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
+Description,Object Description,description,</mods:abstract>,<descriptiveNoteValue>,
+Format,Format,fileFormat,</mods:form>,<formatMeasurements>
+Physical Description,Object Description,,</mods:physicalDescription>,<objectMeasurements>,
+Identifier,Collection Identifier,identifier,</mods:identifier>,<recordID>,
+Type,Object Type,ype,</mods:typeOfResource>,<objectWorkType>,
+Title,Title,name,</mods:titleInfo>,<appellationValue>,
+Language,Language,inLanguage,</mods:languageTerm>,<xml:lang>,
