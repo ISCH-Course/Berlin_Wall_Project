@@ -1,3 +1,3 @@
 Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
-Contributor,"Personal Contributor, Personal Contributor Type",contributor,<name> / <role> / <roleTerm>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,"Creator Display, Creator Extent",,
-Creator,Creating individual,creator,<name> <namePart>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,Role,,
+Contributor,"Personal Contributor, Personal Contributor Type",contributor,<name> / <role> / <roleTerm>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,"Creator Display, Creator Extent",,"autore, arrangiatore, fondatore"
+Creator,Creating individual,creator,<name> <namePart>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventActor> / <role>,Role,,"collaborazione"
