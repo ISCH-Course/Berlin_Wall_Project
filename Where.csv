@@ -1,5 +1,5 @@
-Property,LCDRG,Schema.org,MODS,ISAD-G,CIDOC-CRM
-Location,Location Facility,location,</mods:physicalLocation>,<repository>,P55 has current location
-Creation/Publication Location,Creating Organization,locationCreated,</mods:place>,<placeOfCreation>,P7 took place at
-Collection/Part Of,Collection Identifier,isPartOf,</mods:relatedItem>,<partOf>,P46 is composed of
-Depicted Location,,contentLocation,</mods:geographic>,<geographicalArea>,P53 has former or current location
+Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
+Location,Location Facility,location,</mods:physicalLocation>,<repositoryWrap> / <repositorySet> / <repositoryLocation>,,,
+Creation/Publication Location,Creating Organization,locationCreated,</mods:place>,<eventWrap> / <eventSet> / <event> / <eventPlace> / <place>,,,
+Collection/Part Of,Collection Identifier,isPartOf,</mods:relatedItem>,<recordWrap> / <collection>,,,
+Depicted Location,,contentLocation,</mods:geographic>,<subjectWrap> / <subjectSet> / <subject> / <subjectPlace>,,,
