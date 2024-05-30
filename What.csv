@@ -1,5 +1,5 @@
 Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
-Description,Object Description,description,</mods:abstract>,<descriptiveNoteValue>,,,
+Description,Object Description,description,</mods:abstract>,<objectDescriptionWrap> / <objectDescriptionSet> / <descriptiveNoteValue> / <xs:string>,,,
 Format,Format,fileFormat,</mods:form>,<formatMeasurements>,,,
 Physical Description,Object Description,,</mods:physicalDescription>,<objectMeasurements>,,,
 Identifier,Collection Identifier,identifier,</mods:identifier>,<recordID>,,,
