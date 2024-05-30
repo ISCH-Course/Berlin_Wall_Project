@@ -1,4 +1,4 @@
 Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
-Production Date,Production Date,Date,<dateCreated>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,Display date,,
-Associated Date,N/A,Date,<date>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,N/A,,
-Publication Date,Release Date,Date,<dateIssued>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,N/A,,
+Production Date,Production Date,productionDate,<dateCreated>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,Display date,"Date of publication, production and/or distribution",
+Associated Date,N/A,Date,<date>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,N/A,"Date of publication, production and/or distribution",
+Publication Date,Release Date,datePublished,<dateIssued>,<eventWrap> / <eventSet> / <event> / <eventType> / <eventDate>,N/A,"Date of publication, production and/or distribution",
