@@ -2,10 +2,9 @@ Subject,Property,Object
 Postcard of a graffiti,rico:isDirectlyIncludedIn,G - postcards
 Postcard of a graffiti,rdfs:label,characters in line
 Postcard of a graffiti,rico:measure,H: 10 cm W: 15 cm
-Postcard of a graffiti,rico:generalDescription,This postcard represents a Graffiti
 Postcard of a graffiti,rico:hasCreationDate,1991
 Postcard of a graffiti,rico:identifier,G-000628
 Postcard of a graffiti,crm:P62 depicts,Graffiti: Zeichen in der Reihe
 Postcard of a graffiti,crm:P45 consists of,Cardboard; industrial printing
 Postcard of a graffiti,rico:isDirectlyIncludedIn,East Side Gallery postacard box
-Postcard of a graffiti,crm:P55 has current location,Berlin Wall Foundation
+Postcard of a graffiti,rico:hasOrHadHolder,Berlin Wall Foundation
