@@ -6,7 +6,7 @@
                 <respStmt>
                     <resp>encoded by</resp>
                     <name>Pietro Tisci</name>
-                    <name></name>
+                    <name>Sergei Slinkin</name>
                     <name></name>
                     <name></name>
                 </respStmt>             
@@ -39,24 +39,26 @@
                 <sp>
                     <speaker>Ronald Reagan</speaker>
                     <p>
-                        Chancellor Kohl, Governing Maor Diepgen, ladies and gentlemen: Twenty-four
-                        years ago, President John F. Kennedy visited Berlin, speaking to the people of
-                        this city and the world at the City Hall. Well, since then two other presidents have
-                        come, each in his turn, to Berlin. And today I, myself, make my second visit to
-                        your city.
+                        <persName ref="#Kohl" role="Chancellor">Chancellor Kohl</persName>,
+                        <persName ref="#Diepgen" role="Governing Mayor">Governing Mayor Diepgen</persName>,
+                        ladies and gentlemen: <date when="1963-06-26">Twenty-four years ago</date>,
+                        <persName ref="#Kennedy" role="President">President John F. Kennedy</persName>
+                        visited Berlin, speaking to the people of this city and the world at the City Hall. Well, since then
+                        <rs type="person">two other presidents</rs> have come, each in his turn, to Berlin. And <date when="1987-06-12">today</date> 
+                        <persName ref="#Reagan">I</persName>, myself, make my second visit to your city.
                     </p>
                     <p>
-                        We come to Berlin, we American presidents, because it’s our duty to speak, in
+                        We come to Berlin, we American <rs type="person">presidents</rs>, because it’s our duty to speak, in
                         this place, of freedom. But I must confess, we’re drawn here by other things as
                         well: by the feeling of history in this city, more than 500 years older than our own
                         nation; by the beauty of the Grunewald and the Tiergarten; most of all, by your
-                        courage and determination. Perhaps the composer Paul Lincke understood
-                        something about American presidents. You see, like so many presidents before
-                        me, I come here today because wherever I go, whatever I do: <foreign xml:lang="de">Ich hab noch einen
+                        courage and determination. Perhaps the composer <person><persName ref="Lincke">Paul Lincke</persName></person> understood
+                        something about American <rs type="person">presidents</rs>. You see, like so many <rs type="person">presidents</rs> before
+                        me, I come here <date when="1987-06-12">today</date> because wherever I go, whatever I do: <foreign xml:lang="de">Ich hab noch einen
                         Koffer in Berlin.</foreign> [I still have a suitcase in Berlin.]
                     </p>
                     <p>
-                        Our gathering today is being broadcast throughout Western Europe and North
+                        Our gathering <date when="1987-06-12">today</date> is being broadcast throughout Western Europe and North
                         America. I understand that it is being seen and heard as well in the East. To those
                         listening throughout Eastern Europe, a special word: Although I cannot be with
                         you, I address my remarks to you just as surely as to those standing here before
@@ -78,22 +80,22 @@
                     </p>
                     <p>
                         President von Weizsacker has said, “The German question is open as long as the
-                        Brandenburg Gate is closed.” Today I say: As long as the gate is close, as long
+                        Brandenburg Gate is closed.” <date when="1987-06-12">Today</date> I say: As long as the gate is close, as long
                         as this scar of a wall is permitted to stand, it is not the German question alone
                         that remains open, but the question of freedom for all mankind. Yet I do not come
                         here to lament. For I find in Berlin a message of hope, even in the shadow of this
                         wall, a message of triumph.
                     </p>
                     <p>
-                        In this season of spring in 1945, the people of Berlin emerged from their air-raid
+                        In this season of <date notBefore="1945-03-01" notAfter="1945-05-31">spring in 1945</date>, the people of Berlin emerged from their air-raid
                         shelters to find devastation. Thousands of miles away, the people of the United
-                        States reached out to help. And in 1947 Secretary of State—as you’ve been told—
+                        States reached out to help. And in <date when="1947-06-05">1947</date> Secretary of State—as you’ve been told—
                         George Marshall announced the creation of what would become known as the
-                        Marshall Plan. Speaking precisely 40 years ago this month, he said: “Our policy is
+                        Marshall Plan. Speaking precisely <date when="1947-06-05">40 years ago this month</date>, he said: “Our policy is
                         directed not against any country or doctrine, but against hunger, poverty,
                         desperation, and chaos.”
                     </p>
-                    <p>In the Reichstag a few moments ago, I saw a display commemorating this 40th
+                    <p>In the Reichstag <date when="1987-06-12">a few moments ago</date>, I saw a display commemorating this 40th
                         anniversary of the Marshall Plan. I was struck by the sign on a burnt-out, gutted
                         structure that was being rebuilt. I understand that Berliners of my own generation
                         can remember seeing signs like it dotted throughout the western sectors of the
@@ -109,16 +111,16 @@
                         practical importance of liberty—that just as truth can flourish only when the
                         journalist is given freedom of speech, so prosperity can come about only when
                         the farmer and businessman enjoy economic freedom. The German Leaders
-                        reduced tariffs, expanded free trade, lowered taxes. From 1950 to 1960 alone, the
+                        reduced tariffs, expanded free trade, lowered taxes. <date from="1950" to="1960">From 1950 to 1960</date> alone, the
                         standard of living in West Germany and Berlin doubled.
                     </p>
                     <p>
-                        Where four decades ago there was rubble, today in West Berlin there is the
+                        Where <date when="1947">four decades ago</date> there was rubble, <date when="1987-06-12">today</date> in West Berlin there is the
                         greatest industrial output of any city in Germany—busy office blocks, fine homes
                         and apartments, proud avenues, and the spreading lawns of parkland. Where a
-                        city’s culture seemed to have been destroyed, today there are two great
+                        city’s culture seemed to have been destroyed, <date when="1987-06-12">today</date> there are two great
                         universities, orchestras and an opera, countless theaters, and museums. Where
-                        there was want, today there’s abundance—food, clothing, automobiles—the
+                        there was want, <date when="1987-06-12">today</date> there’s abundance—food, clothing, automobiles—the
                         wonderful goods of the Ku’damm. From devastation, from utter ruin, you
                         Berliners have, in freedom, rebuilt a city that once again ranks as one of the
                         greatest on earth. The soviets may have had other plans. But my friends,
@@ -128,11 +130,11 @@
                         Schnauze.]
                     </p>
                     <p>
-                        In the 1950s, Khrushchev predicted: “We will bury you.” But in the West today,
+                        In <date when="1956-11-18">the 1950s</date>, Khrushchev predicted: “We will bury you.” But in the West <date when="1987-06-12">today</date>,
                         we see a free world that has achieved a level of prosperity and well-being
                         unprecedented in all human history. In the communist world, we see failure,
                         technological backwardness, declining standards of health, even want of the
-                        most basic kind—too little food. Even today, the Soviet Union still cannot feed
+                        most basic kind—too little food. Even <date when="1987-06-12">today</date>, the Soviet Union still cannot feed
                         itself. After these four decades, then, there stands before the entire world one
                         great and inescapable conclusion: Freedom leads to prosperity. Freedom
                         replaces the ancient hatreds among the nations with comity and peace. Freedom
@@ -168,7 +170,7 @@
                         both sides.
                     </p>
                     <p>
-                        Beginning 10 years ago, the Soviets challenged the Western alliance with a grave
+                        Beginning <date when="1976-03">10 years ago</date>, the Soviets challenged the Western alliance with a grave
                         new threat, hundreds of new and more deadly SS-20 nuclear missiles, capable of
                         striking every capital in Europe. The Western alliance responded by committing
                         itself to a counter-deployment unless the Soviets agreed to negotiate a better
