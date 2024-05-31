@@ -1,0 +1,10 @@
+﻿Subject,Property,Object
+Brochure "A Wall of Peace",rico:measure,H: 21.6 cm W: 14.9 cm D: .4 cm
+Brochure "A Wall of Peace",rico:isDirectlyIncludedIn,Berlin Wall Foundation
+Brochure "A Wall of Peace",rico:identifier,N-000002
+Brochure "A Wall of Peace",rico:hasPublicationDate,1967
+Brochure "A Wall of Peace",rico:generalDescription,"Brochure ""A Wall of Peace"", published by the Political Administration of the Berlin City Command with articles on the accuracy and significance of the ""anti-fascist protective wall"" for socialism in the GDR, 64 pages."
+Brochure "A Wall of Peace",rdfs:label,Brochure "A Wall of Peace"
+Brochure "A Wall of Peace",fo:description,"Brochure ""A Wall of Peace"", published by the Political Administration of the Berlin City Command with articles on the accuracy and significance of the ""anti-fascist protective wall"" for socialism in the GDR, 64 pages."
+Brochure "A Wall of Peace",crm:P62 depicts,Berlin Wall
+Brochure "A Wall of Peace",crm:P45 consists of,Paper

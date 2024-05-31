@@ -1,0 +1,11 @@
+Subject,Property,Object
+East Side Gallery,Schema:location,Friedrichshain-Kreuzberg
+East Side Gallery,rico:isDirectlyIncludedIn,"M¨¹hlenstra?e, 13127"
+East Side Gallery,rico:identifier,n2012043956
+East Side Gallery,rico:identifier,2122251-4
+East Side Gallery,rico:identifier,Q313746
+East Side Gallery,rico:identifier,art 6807791
+East Side Gallery,rico:identifier,VIAF ID: 264345697
+East Side Gallery,rico:hasCreationDate,1990
+East Side Gallery,crm:P62 depicts,Berlin Wall
+East Side Gallery,crm:P2_has_type,art museum
