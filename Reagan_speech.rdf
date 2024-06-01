@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dbo="http://dbpedia.org/ontology/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Reagan">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Diepgen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Governing Mayor Diepgen</foaf:name>
+    <dbo:role rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Governing Mayor</dbo:role>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Japan">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Japan</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/event1987">
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-01-01</dcterms:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/BrandenburgGate">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brandenburg Gate</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/event1947-06-05">
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-06-05</dcterms:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Gorbachev">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mr. Gorbachev</foaf:name>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General Secretary Gorbachev</foaf:name>
+    <dbo:role rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeneralSecretary</dbo:role>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/SovietUnion">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soviet
+                        Union</foaf:name>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soviet Union</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Grunewald">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grunewald</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Kohl">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chancellor Kohl</foaf:name>
+    <dbo:role rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chancellor</dbo:role>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Tiergarten">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiergarten</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/NorthAmerica">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">North
+                        America</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Germany">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Germany</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/East">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/AlexPlatz">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alexanderplatz</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/RonaldReagan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ronald_Reagan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Reichstag">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reichstag</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/America">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nation</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/West">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">the West</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Belgium">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belgium</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Europe">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/WestGermany">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">West Germany</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Baltic">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baltic</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/TheUnitedStates">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">the United
+                        States</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CityHall">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City Hall</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Lincke">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul Lincke</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Weizsacker">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">President von Weizsacker</foaf:name>
+    <dbo:role rdf:datatype="http://www.w3.org/2001/XMLSchema#string">President</dbo:role>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Kennedy">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">President John F. Kennedy</foaf:name>
+    <dbo:role rdf:datatype="http://www.w3.org/2001/XMLSchema#string">President</dbo:role>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/WesternEurope">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Western Europe</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Marshall">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">George Marshall</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Italy">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italy</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/event1963-06-26">
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1963-06-26</dcterms:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/EasternEurope">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eastern Europe</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Berlin">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berlin</foaf:name>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">city</foaf:name>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/France">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <foaf:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">France</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/event1987-06-12">
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-06-12</dcterms:date>
+  </rdf:Description>
+</rdf:RDF>
