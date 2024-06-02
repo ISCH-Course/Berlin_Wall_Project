@@ -1,4 +1,4 @@
-# Berlin_Wall_Project
+# Berlin Wall Project
 
 Repository to store and share files of the project developed for the Information Science and Cultural Heritage course.
 
