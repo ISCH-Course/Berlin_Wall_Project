@@ -3,7 +3,7 @@
 Repository to store and share files of the project developed for the Information Science and Cultural Heritage course.
 
 ## Content
-In the Knowledge Organisation folder there are all the levels of representation of the domain chosen: Conceptual Map, E/R model, Theoretical model, enriched E/R model and Conceptual model. Then there are the metadata analysis and the metadata allignment files.
+In the Knowledge Organisation folder there are all the levels of representation of the domain chosen: Conceptual Map, E/R model, Theoretical model, enriched E/R model and Conceptual model. Then there are the metadata analysis and the metadata allignment files (Who-Where-When-What).
 
 In the Knowledge Representation folder there are the csv files where the items are associated to their direct features through ontologies' predicates. Then the python files where are stored the functions used to extract rdf triples. Finally the dataset obtained, in turtle (.ttl) and a graph representation of it.
 
