@@ -1,7 +1,7 @@
 Subject,Property,Object,
 Tear Down This Wall!: speech Notes,rdfs:label,"Remarks at Brandenberg Gate, Berlin, Germany [President's Speaking Copy]",
 Tear Down This Wall!: speech Notes,rico:isDocumentaryFormTypeOf,Textual Records,
-Tear Down This Wall!: speech Notes,cidoc-crm:P14 carried out by,Ronald Reagan,
+Tear Down This Wall!: speech Notes,crm:P14 carried out by,Ronald Reagan,
 Tear Down This Wall!: speech Notes,rico:hasCreationDate,12 June 1987,
 Tear Down This Wall!: speech Notes,rico:isAssociatedWithEvent,750th Anniversary of the Founding of Berlin,
 Tear Down This Wall!: speech Notes,rico:conditionsOfUse,undetermined,
