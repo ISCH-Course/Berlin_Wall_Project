@@ -23,8 +23,13 @@ root = tree.getroot()
 
 # Helper function to create URIs
 def create_uri(base, name):
+    return URIRef(f"{base}{name.replace(' ', '_')}")
+'''
+# Helper function to create URIs
+def create_uri(base, name):
     return URIRef(f"{base}{name}")
-
+'''
+    
 # Transform persons
 for pers_name in root.findall('.//{http://www.tei-c.org/ns/1.0}persName'):
     uri = create_uri(EX, pers_name.get('ref').strip('#'))
@@ -33,6 +38,13 @@ for pers_name in root.findall('.//{http://www.tei-c.org/ns/1.0}persName'):
         g.add((uri, FOAF.name, Literal(pers_name.text.strip(), datatype=XSD.string)))
     if 'role' in pers_name.attrib:
         g.add((uri, DBO.role, Literal(pers_name.get('role'), datatype=XSD.string)))
+
+# Transform organizations
+for org_name in root.findall('.//{http://www.tei-c.org/ns/1.0}orgName'):
+    uri = create_uri(EX, org_name.get('ref').strip('#'))
+    g.add((uri, RDF.type, FOAF.Organization))
+    if org_name.text:
+        g.add((uri, FOAF.name, Literal(org_name.text.strip(), datatype=XSD.string)))
 
 # Transform places
 for place_name in root.findall('.//{http://www.tei-c.org/ns/1.0}placeName'):
@@ -49,10 +61,16 @@ for date in root.findall('.//{http://www.tei-c.org/ns/1.0}date'):
     elif 'from' in date.attrib and 'to' in date.attrib:
         g.add((event_uri, DCTERMS.date, Literal(f"{date.get('from')}/{date.get('to')}", datatype=XSD.string)))
 
-# Include owl:sameAs links for related entities
-# Example of linking entities (this should be expanded based on actual data)
-g.add((create_uri(EX, "Berlin"), OWL.sameAs, URIRef("http://dbpedia.org/resource/Berlin")))
-g.add((create_uri(EX, "RonaldReagan"), OWL.sameAs, URIRef("http://dbpedia.org/resource/Ronald_Reagan")))
+
+# Transform objects
+for obj in root.findall('.//{http://www.tei-c.org/ns/1.0}object'):
+    obj_uri = create_uri(EX, obj.text.strip())
+    g.add((obj_uri, RDF.type, DBO.Object))
+
+# Transform terms
+for term in root.findall('.//{http://www.tei-c.org/ns/1.0}term'):
+    term_uri = create_uri(EX, term.text.strip())
+    g.add((term_uri, RDF.type, DBO.Term))
 
 # Save the RDF graph to a file
 g.serialize(destination='Reagan_speech.rdf', format='xml')
