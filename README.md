@@ -9,6 +9,8 @@ In the **Knowledge Representation** folder there are the csv files where the ite
 
 In the **Text object process** folder there are the XML/TEI encoding file of the speech notes chosen as one of the object, its .html file version and its rdf triples extracted. Finally all the python files produced to do the XML/TEI->HTML and XML/TEI->RDF transformations.
 
+---
+
 ### Mantainers:
 * Romolo David d'Alessandro
 * Yifan Wu
