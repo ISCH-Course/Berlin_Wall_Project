@@ -6,8 +6,10 @@
 @prefix rdfs1: <https://www.w3.org/2000/01/rdf-schema#> .
 @prefix rico: <https://www.ica.org/standards/RiC/ontology/> .
 @prefix schema: <https://schema.org/> .
+@prefic skos:<http://www.w3.org/2004/02/skos/core#> .
 
 <https://w3id.org/BerlinWallProject/Berlin-Wall-fragment> crm:P2_has_type <https://w3id.org/BerlinWallProject/fragment,-concrete> ;
+    skos:broader crm:E24_Physical_Human-Made_Thing ;
     crm:P45_consists_of "red (overall color) yellow (overall color) pink (overall color) black (overall color) grey (overall color) concrete (overall material)" ;
     schema:productionDate <https://w3id.org/BerlinWallProject/1989> ;
     rico:generalDescription "The opening of the Berlin Wall by the East German government on November 9, 1989, signaled the collapse of Communism and led to the reunification of East and West Germany. Their separation through the center of Berlin dated to the Allied partition of the country into occupied zones after the Second World War. When the end came, portions of the wall were cut into memorial-size chunks of concrete. An apparently limitless supply of smaller bits became available to a global audience who had witnessed the wall’s destruction on television. A vendor in a Berlin flea market sold this fragment to a visiting Canadian student, who in turn sold it on an Internet auction site. Purchase, 2011" ;
@@ -32,6 +34,7 @@
     rdfs1:label "Brochure A Wall of Peace" .
 
 <https://w3id.org/BerlinWallProject/East-Side-Gallery> crm:P198_is_held_or_supported_by <https://w3id.org/BerlinWallProject/Berlin-Wall> ;
+    skos:broader schema:EntertainmentBusiness ;
     owl:sameAs <http://viaf.org/viaf/264345697> ;
     crm:P55_has_current_location <https://w3id.org/BerlinWallProject/Mühlenstraße,-13127> ;
     schema:location <https://w3id.org/BerlinWallProject/Friedrichshain-Kreuzberg> ;
@@ -56,6 +59,7 @@
 
 <https://w3id.org/BerlinWallProject/Goodbye-Lenin!> crm:P62_depicts <https://w3id.org/BerlinWallProject/Belin-Wall> ;
     owl:sameAs <http://viaf.org/viaf/316755082> ;
+    skos:broader schema:CreativeWork ;
     schema:inLanguage <https://w3id.org/BerlinWallProject/German> ;
     schema:locationCreated <https://w3id.org/BerlinWallProject/Germany> ;
     fo:budget "4.800.000€" ;
@@ -74,6 +78,7 @@
     fo:title "Good Bye, Lenin!" .
 
 <https://w3id.org/BerlinWallProject/Il-tunnel-della-libertà> fabio:has_creator <https://w3id.org/BerlinWallProject/Ellen-Sesta> ;
+    skos:broader schema:CreativeWork ;
     fabio:has_language <https://w3id.org/BerlinWallProject/Italian> ;
     fabio:has_page_count <https://w3id.org/BerlinWallProject/213-pages> ;
     fabio:has_publication_date <https://w3id.org/BerlinWallProject/2002> ;
@@ -87,6 +92,7 @@
 
 <https://w3id.org/BerlinWallProject/Photograph:-Leap-into-freedom> crm:P62_depicts <https://w3id.org/BerlinWallProject/Berlin-Wall>,
         <https://w3id.org/BerlinWallProject/Hans-Conrad-Schumann> ;
+    skos:broader schema:CreativeWork ;
     schema:url <https://w3id.org/BerlinWallProject/https://lccn.loc.gov/2010645736> ;
     rico:generalDescription "Title devised by Library staff. (Source: 100 photographs : the most influential images of all time. New York, NY : Time Books, 2016). Note on verso: Freedom leaper identified: This East German soldier, whose leap over a barbed wire barricade between East and West Berlin symbolized the repressions of the Berlin Wall, never was named. Now, two years later, he has been identified and traced to a village in West Germany where he lives with his wife and 11-month-old son. Newspaper clipping on verso: This photo of an East German soldier leaping over barbed wire barricade to freedom in West Berlin became a symbol of the repressions of the Berlin Wall. Associated Press photo. On verso: Aug. 23 1963. Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)." ;
     rico:hasAuthor <https://w3id.org/BerlinWallProject/Leibing,-Peter,-photographer> ;
@@ -134,6 +140,7 @@
 
 <https://w3id.org/BerlinWallProject/Heroes> mo:duration "6.10 minutes" ;
     owl:sameAs <http://viaf.org/viaf/178794268> ;
+    skos:broader schema:CreativeWork ;
     mo:musicbrainz_guid "f0a4ed57-10e0-4c37-81b4-36311dc7d4b6" ;
     mo:publisher <https://w3id.org/BerlinWallProject/BMG-songs> ;
     schema:about <https://w3id.org/BerlinWallProject/Berlin-Wall> ;
