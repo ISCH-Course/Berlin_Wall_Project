@@ -32,6 +32,7 @@
     rdfs1:label "Brochure A Wall of Peace" .
 
 <https://w3id.org/BerlinWallProject/East-Side-Gallery> crm:P198_is_held_or_supported_by <https://w3id.org/BerlinWallProject/Berlin-Wall> ;
+    owl:sameAs <http://viaf.org/viaf/264345697> ;
     crm:P55_has_current_location <https://w3id.org/BerlinWallProject/Mühlenstraße,-13127> ;
     schema:location <https://w3id.org/BerlinWallProject/Friedrichshain-Kreuzberg> ;
     rico:beginningDate <https://w3id.org/BerlinWallProject/1990> ;
@@ -54,6 +55,7 @@
     rdfs1:label "JRO Berlin special card 1962" .
 
 <https://w3id.org/BerlinWallProject/Goodbye-Lenin!> crm:P62_depicts <https://w3id.org/BerlinWallProject/Belin-Wall> ;
+    owl:sameAs <http://viaf.org/viaf/316755082> ;
     schema:inLanguage <https://w3id.org/BerlinWallProject/German> ;
     schema:locationCreated <https://w3id.org/BerlinWallProject/Germany> ;
     fo:budget "4.800.000€" ;
@@ -131,6 +133,7 @@
     rdfs1:label "Remarks at Brandenberg Gate, Berlin, Germany [President's Speaking Copy]" .
 
 <https://w3id.org/BerlinWallProject/Heroes> mo:duration "6.10 minutes" ;
+    owl:sameAs <http://viaf.org/viaf/178794268> ;
     mo:musicbrainz_guid "f0a4ed57-10e0-4c37-81b4-36311dc7d4b6" ;
     mo:publisher <https://w3id.org/BerlinWallProject/BMG-songs> ;
     schema:about <https://w3id.org/BerlinWallProject/Berlin-Wall> ;
