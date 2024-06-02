@@ -8,4 +8,4 @@ East Side Gallery,rico:identifier,art 6807791
 East Side Gallery,rico:identifier,VIAF ID: 264345697
 East Side Gallery,rico:hasCreationDate,1990
 East Side Gallery,crm:P62 depicts,Berlin Wall
-East Side Gallery,crm:P2 has type,art museum
+East Side Gallery,rdfs:type,art museum
