@@ -3355,6 +3355,7 @@ input, select, textarea {
 
 	.knowledgeOrganization img{
 		width:900px;
+		border-radius: 20px;
 	}
 
 	.knowledgeRepresentation p{
@@ -3363,6 +3364,7 @@ input, select, textarea {
 
 	.knowledgeRepresentation img{
 		width:900px;
+		border-radius: 20px;
 	}
 
 
@@ -3511,4 +3513,12 @@ input, select, textarea {
 	color: #999;
 	text-decoration: none;
 	cursor: pointer;
+}
+
+table {
+  table-layout: fixed; 
+}
+
+th, td {
+  width: 130px; 
 }
