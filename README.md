@@ -11,7 +11,8 @@ In the **Text object process** folder there are the XML/TEI encoding file of the
 
 ---
 
-### Mantainers:
+## Mantainers:
+
 * Romolo David d'Alessandro
 * Yifan Wu
 * Pietro Tisci
