@@ -1,8 +1,0 @@
-Property,LCDRG,Schema.org,MODS,LIDO,CCO,ISBD,MusicBrainz Terminology
-Description,Object Description,description,</mods:abstract>,<objectDescriptionWrap> / <objectDescriptionSet> / <descriptiveNoteValue> / <xs:string>,Description,Extent,N/A
-Format,Format,fileFormat,</mods:form>,<objectMeasurementsWrap> / <objectMeasurementsSet> / <objectMeasurements> / <formatMeasurements>,Format,Extent,Formato
-Physical Description,Object Description,description,</mods:physicalDescription>,<objectMeasurementsWrap> / <objectMeasurementsSet> / <objectMeasurements>,Physical Description display,Dimensions,"Formato, Confezione"
-Identifier,Collection Identifier,identifier,</mods:identifier>,<recordWrap> / <recordID> / <xs:string>,Unique ID,Resource identifier,N° di catalogo
-Type,Object Type,type,</mods:typeOfResource>,<objectWorkTypeWrap> / <objectWorkType>,Work Type,Media Type,Tipo
-Title,Title,name,</mods:titleInfo>,<titleWrap> / <titleSet> / <appellationValue> / xs:string,Title,Title,Titolo
-Language,Language,inLanguage,</mods:languageTerm>,xml:lang,N/A,N/A,Lingua
