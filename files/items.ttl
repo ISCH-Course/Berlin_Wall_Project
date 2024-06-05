@@ -6,7 +6,8 @@
 @prefix rdfs1: <https://www.w3.org/2000/01/rdf-schema#> .
 @prefix rico: <https://www.ica.org/standards/RiC/ontology/> .
 @prefix schema: <https://schema.org/> .
-@prefic skos:<http://www.w3.org/2004/02/skos/core#> .
+@prefix skos:<http://www.w3.org/2004/02/skos/core#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 <https://w3id.org/BerlinWallProject/Berlin-Wall-fragment> crm:P2_has_type <https://w3id.org/BerlinWallProject/fragment,-concrete> ;
     skos:broader crm:E24_Physical_Human-Made_Thing ;
