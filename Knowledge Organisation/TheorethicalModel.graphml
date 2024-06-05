@@ -1424,7 +1424,7 @@ full range of Reagan White House activities.
           <y:Geometry height="30.0" width="70.51808852835381" x="-1023.3340322626361" y="1730.8073187948353"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.365234375" x="2.5764270766768504" xml:space="preserve" y="5.6494140625">sentimental<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.365234375" x="2.576427076676964" xml:space="preserve" y="5.6494140625">sentimental<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -2101,17 +2101,6 @@ American History<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
     <node id="n174">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="39.0" width="134.53813424113457" x="-1034.9374681878294" y="1768.0473743282487"/>
-          <y:Fill color="#66CC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.734375" x="11.901879620567342" xml:space="preserve" y="10.1494140625">Il tunnel della libertà<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n175">
-      <data key="d6">
-        <y:ShapeNode>
           <y:Geometry height="30.0" width="77.6544626687998" x="-388.1495501431949" y="1955.5772139560445"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
@@ -2120,7 +2109,7 @@ American History<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n176">
+    <node id="n175">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="39.0" width="76.69803067601697" x="2313.975675864329" y="1717.4984698886838"/>
@@ -2131,7 +2120,7 @@ American History<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n177">
+    <node id="n176">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="47.69098464128422" x="-963.9704203343615" y="1659.3131410246224"/>
@@ -2142,13 +2131,24 @@ American History<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelMo
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n178">
+    <node id="n177">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="47.69098464128422" x="-1023.3340322626361" y="1693.5672632614219"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.34765625" x="3.1716641956420517" xml:space="preserve" y="5.6494140625"> drama<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n178">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="39.0" width="134.53813424113457" x="-1034.9374681878294" y="1768.0473743282487"/>
+          <y:Fill color="#66CC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.06640625" x="21.235863995567342" xml:space="preserve" y="10.1494140625">Good bye Lenin!<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -4312,7 +4312,7 @@ time-span<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaul
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e195" source="n107" target="n174">
+    <edge id="e195" source="n107" target="n178">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4322,7 +4322,7 @@ time-span<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaul
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e196" source="n107" target="n175">
+    <edge id="e196" source="n107" target="n174">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -4335,8 +4335,7 @@ time-span<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaul
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e197" source="n131" target="n176">
-      <data key="d9"/>
+    <edge id="e197" source="n131" target="n175">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4346,8 +4345,7 @@ time-span<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaul
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e198" source="n107" target="n178">
-      <data key="d9"/>
+    <edge id="e198" source="n107" target="n177">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="-147.89988073885706" sy="-25.865861347968576" tx="0.0" ty="0.0">
@@ -4360,8 +4358,7 @@ time-span<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaul
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e199" source="n107" target="n177">
-      <data key="d9"/>
+    <edge id="e199" source="n107" target="n176">
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
